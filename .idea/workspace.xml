@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63993141-66fc-4111-8db5-eb63aeb7366d" name="Default Changelist" comment="" />
+    <list default="true" id="cb632677-f55e-4881-93db-07356f5ab815" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Banner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CareScale.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PlantItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ShoppingList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datas/plantList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Banner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/PlantItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/ShoppingList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +36,10 @@
       <executable />
     </execution>
   </component>
-  <component name="ProjectId" id="24hnH3j82w5SzjaDshUc8b2VEOb" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="24iNtxiVu7MDXtIu3SqIe66nSBg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,24 +48,53 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="63993141-66fc-4111-8db5-eb63aeb7366d" name="Default Changelist" comment="" />
-      <created>1644091594747</created>
+      <changelist id="cb632677-f55e-4881-93db-07356f5ab815" name="Default Changelist" comment="" />
+      <created>1644109667190</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1644091594747</updated>
-      <workItem from="1644091596150" duration="889000" />
+      <updated>1644109667190</updated>
+      <workItem from="1644109674510" duration="4015000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#ESLint" timestamp="1644153925601">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#ESLint/0.0.1536.834/1920.0.2560.1050@0.0.1536.834" timestamp="1644153925601" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1644109783984">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.2560.1050@0.0.1536.834" timestamp="1644109783984" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1644109783984">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.2560.1050@0.0.1536.834" timestamp="1644109783984" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1644109783984">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.2560.1050@0.0.1536.834" timestamp="1644109783984" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1644109783984">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.2560.1050@0.0.1536.834" timestamp="1644109783984" />
   </component>
 </project>
